@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48833" started-at="2018-01-13T12:25:58Z" finished-at="2018-01-13T12:26:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48833" started-at="2018-01-13T12:25:58Z" finished-at="2018-01-13T12:26:47Z">
+      <class name="com.picaso.XYZ">
+        <test-method status="PASS" signature="method()[pri:0, instance:com.picaso.XYZ@612679d6]" name="method" is-config="true" duration-ms="37067" started-at="2018-01-13T17:55:58Z" finished-at="2018-01-13T17:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="signUp_function()[pri:1, instance:com.picaso.XYZ@612679d6]" name="signUp_function" duration-ms="9625" started-at="2018-01-13T17:56:35Z" finished-at="2018-01-13T17:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp_function -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.picaso.XYZ@612679d6]" name="teardown" is-config="true" duration-ms="2105" started-at="2018-01-13T17:56:45Z" finished-at="2018-01-13T17:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.picaso.XYZ -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
