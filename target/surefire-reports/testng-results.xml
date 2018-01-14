@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="38776" started-at="2018-01-13T12:50:28Z" finished-at="2018-01-13T12:51:06Z">
+  <suite name="Suite" duration-ms="42490" started-at="2018-01-14T06:09:09Z" finished-at="2018-01-14T06:09:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="38776" started-at="2018-01-13T12:50:28Z" finished-at="2018-01-13T12:51:06Z">
+    <test name="Test.xml" duration-ms="42490" started-at="2018-01-14T06:09:09Z" finished-at="2018-01-14T06:09:51Z">
       <class name="com.picaso.XYZ">
-        <test-method status="PASS" signature="method()[pri:0, instance:com.picaso.XYZ@38082d64]" name="method" is-config="true" duration-ms="25436" started-at="2018-01-13T18:20:28Z" finished-at="2018-01-13T18:20:53Z">
+        <test-method status="PASS" signature="method()[pri:0, instance:com.picaso.XYZ@38082d64]" name="method" is-config="true" duration-ms="31821" started-at="2018-01-14T11:39:09Z" finished-at="2018-01-14T11:39:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method -->
-        <test-method status="PASS" signature="signUp_function()[pri:1, instance:com.picaso.XYZ@38082d64]" name="signUp_function" duration-ms="10298" started-at="2018-01-13T18:20:53Z" finished-at="2018-01-13T18:21:03Z">
+        <test-method status="PASS" signature="signUp_function()[pri:1, instance:com.picaso.XYZ@38082d64]" name="signUp_function" duration-ms="9245" started-at="2018-01-14T11:39:41Z" finished-at="2018-01-14T11:39:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signUp_function -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.picaso.XYZ@38082d64]" name="teardown" is-config="true" duration-ms="3011" started-at="2018-01-13T18:21:03Z" finished-at="2018-01-13T18:21:06Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.picaso.XYZ@38082d64]" name="teardown" is-config="true" duration-ms="1330" started-at="2018-01-14T11:39:50Z" finished-at="2018-01-14T11:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.picaso.XYZ -->
-    </test> <!-- Test -->
+    </test> <!-- Test.xml -->
   </suite> <!-- Suite -->
 </testng-results>
